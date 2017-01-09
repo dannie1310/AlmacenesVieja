@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" >
+         
+
+    			<TextView
+				        android:id="@+id/textView_sel_ordencompra"
+				        android:layout_width="wrap_content"
+				        android:layout_height="wrap_content"
+				        android:text="@string/form_entrada_sel_ordencompra" />
+
+			    <Spinner
+			        android:id="@+id/spinner_ordencompra"
+			        android:layout_width="match_parent"
+			        android:layout_height="wrap_content" />
+
+			    <TextView
+			        android:id="@+id/textView_empresa_sucursal"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="-" />
+			
+			    <TableRow
+			        android:id="@+id/tableRow1"
+			        android:layout_width="match_parent"
+			        android:layout_height="wrap_content" >
+			
+			        <TextView
+			            android:id="@+id/textView_entrada_remision"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"
+			            android:text="@string/form_entrada_remision" />
+			
+			        <EditText
+			            android:id="@+id/editText_remision"
+			            android:layout_width="match_parent"
+			            android:layout_height="wrap_content"
+			            android:ems="10" />
+			    </TableRow>
+
+			    <TextView
+			        android:id="@+id/textView4"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:padding="10dp"
+			        android:text="@string/form_entrada_materiales_ordencompra" />
+			
+			    <ListView
+			        android:id="@+id/listView_materiales_ordencompra"			        
+			         android:layout_height="120dp"
+			         android:scrollbars="vertical"
+			         android:fillViewport="true"
+			         android:layout_width="fill_parent"
+			         android:background="@drawable/shape" >
+			    </ListView>
+			
+			    <TextView
+			        android:id="@+id/textView1"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="@string/form_entrada_materiales" />
+			
+			    <ListView
+			        android:id="@+id/listView_materiales_ordencompra_temp"
+			      	android:layout_height="120dp"
+			        android:scrollbars="vertical"
+			        android:fillViewport="true"
+			        android:layout_width="fill_parent"
+			        android:background="@drawable/shape" >
+			
+			    </ListView>
+
+			    <TextView
+			        android:id="@+id/textView2"
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:text="Observaciones" />
+			
+			    <EditText
+			        android:id="@+id/editTextObservaciones"
+			        android:layout_width="match_parent"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="753.84"
+			        android:inputType="textMultiLine" />
+			
+			    <Button
+			        android:id="@+id/button2"
+			        android:layout_width="match_parent"
+			        android:layout_height="wrap_content"
+			        android:layout_weight="0.58"
+			        android:onClick="guardarentrada"
+			        android:text="@string/form_button_ok" />
+   
+
+
+</LinearLayout>

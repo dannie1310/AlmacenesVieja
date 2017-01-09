@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_reimpresion.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\activity_reimpresion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_generico_temp.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\listview_generico_temp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_reimpresion.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\activity_menu_reimpresion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\subir_capturado.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\subir_capturado.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_temp.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\listview_temp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pint_text.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\activity_pint_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_generico.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\listview_generico.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_menu_delete.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\activity_menu_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_materiales_ordencompra.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\listview_materiales_ordencompra.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_config_empresa.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\activity_config_empresa.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_form_entrada.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\activity_form_entrada.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_form_salida_consumo.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\activity_form_salida_consumo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_printer.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\layout\\activity_main_printer.xml"
+    }
+]

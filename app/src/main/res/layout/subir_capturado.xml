@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal|fill_vertical"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Subir toda la informacón capturado a la nube. 
+        La nube es una expresión que se usa para denominar un espacio en Internet que se puede usar para alojar datos y luego acceder a ellos desde cualquier lugar del mundo. " />
+
+    <Button
+        android:id="@+id/btn_subir_captura"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enviar.." />
+
+</LinearLayout>

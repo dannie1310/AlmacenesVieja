@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shape.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo_hc.jpg",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\logo_hc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\page_mode_sample_shape.xml",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\page_mode_sample_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\receipt_logo.bmp",
+        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\receipt_logo.bmp"
+    }
+]

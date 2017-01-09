@@ -1,0 +1,192 @@
+<ViewFlipper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="fill_parent" android:layout_width="fill_parent">
+   <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+   >
+   	<LinearLayout
+   	    android:layout_width="match_parent"
+   	    android:layout_height="match_parent"
+   	    android:orientation="vertical" >
+
+   		<LinearLayout
+   		    android:layout_width="match_parent"
+   		    android:layout_height="wrap_content"
+   		    android:orientation="vertical" >
+
+   			<LinearLayout
+   			    android:layout_width="match_parent"
+   			    android:layout_height="wrap_content" >
+
+   				<LinearLayout
+   				    android:layout_width="match_parent"
+   				    android:layout_height="wrap_content"
+   				    android:gravity="right" >
+
+   					<ImageView
+   					    android:id="@+id/imageView1"
+   					    android:layout_width="wrap_content"
+   					    android:layout_height="wrap_content"
+   					    android:src="@drawable/icon" />
+
+   				    <ImageView
+   				        android:id="@+id/imageView1"
+   				        android:layout_width="wrap_content"
+   				        android:layout_height="wrap_content"
+   				        android:src="@drawable/logox_" />
+
+   				</LinearLayout>
+
+   			</LinearLayout>
+
+   			<TextView
+   			    android:id="@+id/textView1"
+   			    android:layout_width="match_parent"
+   			    android:layout_height="68dp"
+   			    android:text="@string/select_option"
+   			    android:textAppearance="?android:attr/textAppearanceLarge"
+   			    android:textSize="30dp" />
+
+   		</LinearLayout>
+
+   		<LinearLayout
+   		    android:layout_width="match_parent"
+   		    android:layout_height="wrap_content" >
+
+   		    <ImageButton
+   		        android:id="@+id/option_entrada"
+   		        android:layout_width="wrap_content"
+   		        android:layout_height="86dp"
+   		        android:layout_weight="1.00"
+   		        android:onClick="irentrada"
+   		        android:src="@drawable/download"
+   		        android:text="text_button_aceptar" />
+
+   		    <ImageButton
+   		        android:id="@+id/option_salida"
+   		        android:layout_width="wrap_content"
+   		        android:layout_height="86dp"
+   		        android:layout_weight="1.00"
+   		        android:onClick="salidainsumos"
+   		        android:src="@drawable/upload" />
+
+   		</LinearLayout>
+
+   		<LinearLayout
+   		    android:layout_width="match_parent"
+   		    android:layout_height="wrap_content" >
+
+   		    <TextView
+   		        android:id="@+id/option_msj_entrada"
+   		        android:layout_width="0dp"
+   		        android:layout_height="wrap_content"
+   		        android:layout_gravity="center_vertical"
+   		        android:layout_weight="1"
+   		        android:gravity="center_vertical|center"
+   		        android:text="@string/option_string_entradas" />
+
+   		    <TextView
+   		        android:id="@+id/option_msj_salida"
+   		        android:layout_width="0dp"
+   		        android:layout_height="wrap_content"
+   		        android:layout_gravity="center_vertical"
+   		        android:layout_weight="1"
+   		        android:gravity="center_vertical|center"
+   		        android:text="@string/option_string_salida" />
+
+   		</LinearLayout>
+
+   		 <LinearLayout
+   		    android:layout_width="match_parent"
+   		    android:layout_height="wrap_content" >
+
+   		    <ImageButton
+   		        android:id="@+id/imageButton1"
+   		        android:layout_width="match_parent"
+   		        android:layout_height="86dp"
+   		        android:layout_weight="1.00"
+   		        android:onClick="salidatransferencia"
+   		        android:src="@drawable/loop" />
+
+   		    <ImageButton
+   		        android:id="@+id/ImageButton02"
+   		        android:layout_width="match_parent"
+   		        android:layout_height="86dp"
+   		        android:layout_weight="1.00"
+   		        android:onClick="activity_menu_reimprimir"
+   		        android:src="@drawable/print" />
+
+   		</LinearLayout>
+
+   		<LinearLayout
+   		    android:layout_width="match_parent"
+   		    android:layout_height="wrap_content" >
+
+   			<TextView
+   			    android:id="@+id/msj_maquina"
+   			    android:layout_width="0dp"
+   			    android:layout_height="wrap_content"
+   			    android:layout_gravity="center_vertical"
+   			    android:layout_weight="1"
+   			    android:gravity="center_vertical|center"
+   			    android:text="@string/option_string_traspasos" />
+
+   			<TextView
+   			    android:id="@+id/TextView02"
+   			    android:layout_width="0dp"
+   			    android:layout_height="wrap_content"
+   			    android:layout_weight="1"
+   			    android:gravity="center_vertical|center"
+   			    android:text="@string/option_string_reinpresion" />
+
+   		</LinearLayout>
+
+   		<!-- <LinearLayout
+   		    android:layout_width="match_parent"
+   		    android:layout_height="86dp" >
+
+   		    <ImageButton
+   		        android:id="@+id/ImageButton01"
+   		        android:layout_width="match_parent"
+   		        android:layout_height="86dp"
+   		        android:layout_weight="1.00"
+   		        android:onClick="activity_menu_delete"
+   		        android:src="@drawable/remove" />
+
+   		    <ImageButton
+   		        android:id="@+id/option_salida"
+   		        android:layout_width="match_parent"
+   		        android:layout_height="86dp"
+   		        android:layout_weight="1.00"
+   		        android:onClick="subirDatos"
+   		        android:src="@drawable/user" />
+
+   		</LinearLayout>
+
+   		<LinearLayout
+   		    android:layout_width="match_parent"
+   		    android:layout_height="wrap_content" >
+
+   			<TextView
+   			    android:id="@+id/label_password"
+   			    android:layout_width="0dp"
+   			    android:layout_height="wrap_content"
+   			    android:layout_weight="1"
+   			    android:gravity="center_vertical|center"
+   			    android:text="@string/option_string_salida_contratista" />
+
+   		    <TextView
+   		        android:id="@+id/TextView01"
+   		        android:layout_width="0dp"
+   		        android:layout_height="wrap_content"
+   		        android:layout_gravity="center_vertical"
+   		        android:layout_weight="1"
+   		        android:gravity="center_vertical|center"
+   		        android:text="@string/option_string_delete" />
+   		</LinearLayout> -->
+
+   	</LinearLayout>
+   
+   	 </ScrollView>
+
+</ViewFlipper>

@@ -3,39 +3,39 @@
 
     <item
         is-multidex="true"
+        jar="C:\Users\Usuario\Documents\appRa\AlmacenesVieja\Almacenes\app\libs\BixolonPrinterWithDoubleByteFontBinary.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="96c971139904ec23d681266df51364baa80a13d4">
+        <dex dex="C:\Users\Usuario\Documents\appRa\AlmacenesVieja\Almacenes\app\build\intermediates\transforms\dex\debug\folders\1000\2\BixolonPrinterWithDoubleByteFontBinary_d262cfc045cb200eaa72e766ed693704f11ffd75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Usuario\Documents\appRa\AlmacenesVieja\Almacenes\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c753f2381029cfd7a11c97742794b2c0417e3619">
+        <dex dex="C:\Users\Usuario\Documents\appRa\AlmacenesVieja\Almacenes\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d1899ae592e597874a7c53fa35d954f634d14796\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Usuario\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Almacen\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_46b608817d937c137afc753328947df9b77e23da\classes.dex" />
+        <dex dex="C:\Users\Usuario\Documents\appRa\AlmacenesVieja\Almacenes\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_46b608817d937c137afc753328947df9b77e23da\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Usuario\AndroidStudioProjects\Almacen\app\libs\BixolonPrinterWithDoubleByteFontBinary.jar"
+        jar="C:\Users\Usuario\Documents\appRa\AlmacenesVieja\Almacenes\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="96c971139904ec23d681266df51364baa80a13d4">
-        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Almacen\app\build\intermediates\transforms\dex\debug\folders\1000\2\BixolonPrinterWithDoubleByteFontBinary_ec4bf9885114dbd25fd3877905320539c03e232e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Usuario\AndroidStudioProjects\Almacen\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="6f24d56b7ff0662e84ec756b29d1a7c9a4d8cdc3">
-        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Almacen\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0c6432d10ca0924c9caf9ef3023574558b72f2ca\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Usuario\AndroidStudioProjects\Almacen\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="24.0.2"
-        sha1="506e17c8acdb6456a125ca93e72a18ce8333c401">
-        <dex dex="C:\Users\Usuario\AndroidStudioProjects\Almacen\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_268c79b0f8bcdaac31a20f2c5a0d12871d302ffa\classes.dex" />
+        sha1="a3e9191650bca3f087847f9fc707845d6af4f19d">
+        <dex dex="C:\Users\Usuario\Documents\appRa\AlmacenesVieja\Almacenes\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_abdd52196d952911e5594a6bc1593f4931f96eb9\classes.dex" />
     </item>
 
 </items>

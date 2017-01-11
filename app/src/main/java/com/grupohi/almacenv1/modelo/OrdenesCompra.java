@@ -163,7 +163,7 @@ public class OrdenesCompra {
 		cursor.close();
 		db.close();
 		//if(labels.size()==0)
-			//new Alert(context, log, "No hay más existencia de material.");
+			//new Alert(context, log, "No hay mï¿½s existencia de material.");
 		//Log.d(log, "returnando..");
 		return labels;
 	}
@@ -213,7 +213,7 @@ public class OrdenesCompra {
 		}
 		*/
 		//String cadena
-		//cadenaimprimir+=" Recepción de insumos\n";
+		//cadenaimprimir+=" Recepciï¿½n de insumos\n";
 		cadenaimprimir+="";
 		for (int j=0; j<vector.size(); j++) {
 			//Log.e("obra-concepto",vector.elementAt(j)+"");					

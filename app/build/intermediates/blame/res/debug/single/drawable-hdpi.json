@@ -1,98 +1,98 @@
 [
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bixolon.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\bixolon.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\minus.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\minus.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\minus.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\minus.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\remove.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\remove.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\almacen.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\almacen.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cloud_upload.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\cloud_upload.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\file.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\file.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logox_.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\logox_.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_content_copy.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\ic_content_copy.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo2.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\logo2.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\remove.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\remove.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\file.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\file.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cog.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\cog.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo2.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\logo2.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\upload.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\upload.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_content_copy.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\ic_content_copy.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo1x.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\logo1x.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\home.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cog.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\cog.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo1x.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\logo1x.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plus.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\plus.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cloud_upload.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\cloud_upload.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\download.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\download.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sesion.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\sesion.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loop.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\loop.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\download.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\download.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\home.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\home.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\bixolon.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\bixolon.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cloud_download.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\cloud_download.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\user.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\user.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eye.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\eye.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\sesion.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\sesion.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\loop.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\loop.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\cloud_download.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\cloud_download.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logox_.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\logox_.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\almacen.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\almacen.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\plus.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\plus.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\print.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\print.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\eye.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\eye.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\print.png",
-        "source": "C:\\Users\\Usuario\\AndroidStudioProjects\\Almacen\\app\\src\\main\\res\\drawable-hdpi\\print.png"
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\upload.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\upload.png"
     }
 ]

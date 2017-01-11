@@ -23,7 +23,7 @@
 		<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
 		 <uses-permission android:name="android.permission.SEND_DOWNLOAD_COMPLETED_INTENTS" />
-		 <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+git		 <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
     <!-- android:allowBackup="true"
     <category android:name="android.intent.category.DEFAULT" />    -->

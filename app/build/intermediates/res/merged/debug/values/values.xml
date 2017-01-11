@@ -164,7 +164,7 @@
     <string name="upc_a">UPC-A</string>
     <string name="upc_a_data">012345678905</string>
     <string name="upc_e">UPC-E</string>
-    <string name="url_api">http://saowebdev.grupohi.mx/</string>
+    <string name="url_api">http://saoweb.grupohi.mx/</string>
     <string name="vertical_direction">Enlarged in vertical direction</string>
     <string name="vertical_print_area">Vertical print area</string>
     <string name="vertical_start_position">Vertical start position</string>
@@ -172,13 +172,9 @@
     <string name="width_full">Full</string>
     <string name="width_none">None</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
-        <!--
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        -->
+        
     </style>
     <style name="AppTheme" parent="AppBaseTheme">
-        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        
     </style>
 </resources>

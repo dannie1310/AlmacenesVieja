@@ -9,7 +9,7 @@
     <string name="option_string_delete">ELIMINAR</string>
     <string name="option_string_reinpresion">REIMPRESIÓN</string>  
 
-    <string name="url_api">http://saowebdev.grupohi.mx/</string>   
+    <string name="url_api">http://saoweb.grupohi.mx/</string>
     
     <string name="select_option">¿Qué desea hacer?</string>
     <string name="select_option_delete">¿Qué desea eliminar?</string>

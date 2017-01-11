@@ -1,7 +1,7 @@
-#Wed Jan 11 13:47:22 CST 2017
-base.0=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_abdd52196d952911e5594a6bc1593f4931f96eb9
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d1899ae592e597874a7c53fa35d954f634d14796\\classes.dex
-base.1=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d1899ae592e597874a7c53fa35d954f634d14796
-file.0=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_abdd52196d952911e5594a6bc1593f4931f96eb9\\classes.dex
+#Wed Jan 11 17:20:52 CST 2017
+base.0=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d1899ae592e597874a7c53fa35d954f634d14796
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_abdd52196d952911e5594a6bc1593f4931f96eb9\\classes.dex
+base.1=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_abdd52196d952911e5594a6bc1593f4931f96eb9
+file.0=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d1899ae592e597874a7c53fa35d954f634d14796\\classes.dex

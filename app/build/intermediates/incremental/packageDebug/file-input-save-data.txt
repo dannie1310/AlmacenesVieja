@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jan 11 13:32:08 CST 2017
+#Wed Jan 11 13:47:22 CST 2017
 76.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
 42.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\BixolonPrinterWithDoubleByteFontBinary_d262cfc045cb200eaa72e766ed693704f11ffd75

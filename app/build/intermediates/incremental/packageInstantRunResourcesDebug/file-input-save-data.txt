@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jan 11 13:31:22 CST 2017
+#Wed Jan 11 13:47:21 CST 2017
 5.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
 42.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
 32.set=ANDROID_RESOURCE

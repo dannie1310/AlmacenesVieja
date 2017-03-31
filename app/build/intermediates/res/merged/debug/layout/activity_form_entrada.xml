@@ -47,17 +47,17 @@
 			        android:layout_height="wrap_content"
 			        android:padding="10dp"
 			        android:text="@string/form_entrada_materiales_ordencompra" />
-			
-			    <ListView
-			        android:id="@+id/listView_materiales_ordencompra"			        
-			         android:layout_height="120dp"
-			         android:scrollbars="vertical"
-			         android:fillViewport="true"
-			         android:layout_width="fill_parent"
-			         android:background="@drawable/shape" >
-			    </ListView>
-			
-			    <TextView
+
+	<ListView
+        android:id="@+id/listView_materiales_ordencompra"
+         android:layout_height="120dp"
+         android:scrollbars="vertical"
+         android:fillViewport="true"
+         android:layout_width="fill_parent"
+         android:background="@drawable/shape" >
+    </ListView>
+
+	<TextView
 			        android:id="@+id/textView1"
 			        android:layout_width="wrap_content"
 			        android:layout_height="wrap_content"

@@ -65,7 +65,8 @@ public class SubirDatosActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.subir_capturado);
-		captura_url=getApplicationContext().getString(R.string.url_api)+"?controlador=SAO&accion=procesaAlmacenesMovil";
+		captura_url=getApplicationContext().getString(R.string.url_api)+"?controlador=SAO&accion=procesaAlmacenesMoviles";
+
 		try {
 			Utils.copyDataBase(getApplicationContext());
 		} catch (IOException e) {

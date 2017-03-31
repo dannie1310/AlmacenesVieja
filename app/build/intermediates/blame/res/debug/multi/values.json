@@ -11,7 +11,14 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
                 }
             },
             {
@@ -23,7 +30,14 @@
                     "endOffset": 214
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
                 }
             },
             {
@@ -35,7 +49,14 @@
                     "endOffset": 259
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 44,
+                        "endOffset": 345
+                    }
                 }
             },
             {
@@ -47,7 +68,14 @@
                     "endOffset": 304
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 259,
+                        "endColumn": 44,
+                        "endOffset": 299
+                    }
                 }
             },
             {
@@ -59,7 +87,14 @@
                     "endOffset": 348
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\dimens.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 43,
+                        "endOffset": 253
+                    }
                 }
             },
             {
@@ -71,7 +106,14 @@
                     "endOffset": 414
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 4331,
+                        "endColumn": 65,
+                        "endOffset": 4392
+                    }
                 }
             },
             {
@@ -83,7 +125,14 @@
                     "endOffset": 462
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2061,
+                        "endColumn": 47,
+                        "endOffset": 2104
+                    }
                 }
             },
             {
@@ -95,7 +144,14 @@
                     "endOffset": 511
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 48,
+                        "endOffset": 155
+                    }
                 }
             },
             {
@@ -107,7 +163,14 @@
                     "endOffset": 574
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4662,
+                        "endColumn": 62,
+                        "endOffset": 4720
+                    }
                 }
             },
             {
@@ -119,7 +182,14 @@
                     "endOffset": 634
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3691,
+                        "endColumn": 59,
+                        "endOffset": 3746
+                    }
                 }
             },
             {
@@ -131,7 +201,14 @@
                     "endOffset": 694
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4601,
+                        "endColumn": 59,
+                        "endOffset": 4656
+                    }
                 }
             },
             {
@@ -143,7 +220,14 @@
                     "endOffset": 760
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4398,
+                        "endColumn": 65,
+                        "endOffset": 4459
+                    }
                 }
             },
             {
@@ -155,7 +239,14 @@
                     "endOffset": 856
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4465,
+                        "endColumn": 95,
+                        "endOffset": 4556
+                    }
                 }
             },
             {
@@ -167,7 +258,14 @@
                     "endOffset": 930
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 174,
+                        "startColumn": 4,
+                        "startOffset": 10126,
+                        "endColumn": 73,
+                        "endOffset": 10195
+                    }
                 }
             },
             {
@@ -179,7 +277,14 @@
                     "endOffset": 992
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2169,
+                        "endColumn": 61,
+                        "endOffset": 2226
+                    }
                 }
             },
             {
@@ -191,7 +296,14 @@
                     "endOffset": 1050
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2293,
+                        "endColumn": 57,
+                        "endOffset": 2346
+                    }
                 }
             },
             {
@@ -203,7 +315,14 @@
                     "endOffset": 1116
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 4211,
+                        "endColumn": 65,
+                        "endOffset": 4272
+                    }
                 }
             },
             {
@@ -215,7 +334,14 @@
                     "endOffset": 1160
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3994,
+                        "endColumn": 43,
+                        "endOffset": 4033
+                    }
                 }
             },
             {
@@ -227,7 +353,14 @@
                     "endOffset": 1204
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4082,
+                        "endColumn": 43,
+                        "endOffset": 4121
+                    }
                 }
             },
             {
@@ -239,7 +372,14 @@
                     "endOffset": 1246
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3914,
+                        "endColumn": 41,
+                        "endOffset": 3951
+                    }
                 }
             },
             {
@@ -251,7 +391,14 @@
                     "endOffset": 1288
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4039,
+                        "endColumn": 41,
+                        "endOffset": 4076
+                    }
                 }
             },
             {
@@ -263,7 +410,14 @@
                     "endOffset": 1353
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 5,
+                        "startOffset": 1313,
+                        "endColumn": 65,
+                        "endOffset": 1373
+                    }
                 }
             },
             {
@@ -275,7 +429,14 @@
                     "endOffset": 1420
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 5616,
+                        "endColumn": 66,
+                        "endOffset": 5678
+                    }
                 }
             },
             {
@@ -287,7 +448,14 @@
                     "endOffset": 1480
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 6066,
+                        "endColumn": 59,
+                        "endOffset": 6121
+                    }
                 }
             },
             {
@@ -299,7 +467,14 @@
                     "endOffset": 1518
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4562,
+                        "endColumn": 37,
+                        "endOffset": 4595
+                    }
                 }
             },
             {
@@ -311,7 +486,14 @@
                     "endOffset": 1579
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 5509,
+                        "endColumn": 60,
+                        "endOffset": 5565
+                    }
                 }
             },
             {
@@ -323,7 +505,14 @@
                     "endOffset": 1621
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 7230,
+                        "endColumn": 41,
+                        "endOffset": 7267
+                    }
                 }
             },
             {
@@ -335,7 +524,14 @@
                     "endOffset": 1676
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 6388,
+                        "endColumn": 54,
+                        "endOffset": 6438
+                    }
                 }
             },
             {
@@ -347,7 +543,14 @@
                     "endOffset": 1735
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 6502,
+                        "endColumn": 58,
+                        "endOffset": 6556
+                    }
                 }
             },
             {
@@ -359,7 +562,14 @@
                     "endOffset": 1794
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 6562,
+                        "endColumn": 58,
+                        "endOffset": 6616
+                    }
                 }
             },
             {
@@ -371,7 +581,14 @@
                     "endOffset": 1851
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 6444,
+                        "endColumn": 56,
+                        "endOffset": 6496
+                    }
                 }
             },
             {
@@ -383,7 +600,14 @@
                     "endOffset": 1912
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 7577,
+                        "endColumn": 60,
+                        "endOffset": 7633
+                    }
                 }
             },
             {
@@ -395,7 +619,14 @@
                     "endOffset": 1988
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 8042,
+                        "endColumn": 75,
+                        "endOffset": 8113
+                    }
                 }
             },
             {
@@ -407,7 +638,14 @@
                     "endOffset": 2028
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3834,
+                        "endColumn": 39,
+                        "endOffset": 3869
+                    }
                 }
             },
             {
@@ -419,7 +657,14 @@
                     "endOffset": 2066
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3875,
+                        "endColumn": 37,
+                        "endOffset": 3908
+                    }
                 }
             },
             {
@@ -431,7 +676,14 @@
                     "endOffset": 2116
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2733,
+                        "endColumn": 49,
+                        "endOffset": 2778
+                    }
                 }
             },
             {
@@ -443,7 +695,14 @@
                     "endOffset": 2194
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 7639,
+                        "endColumn": 77,
+                        "endOffset": 7712
+                    }
                 }
             },
             {
@@ -455,7 +714,14 @@
                     "endOffset": 2269
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 7057,
+                        "endColumn": 74,
+                        "endOffset": 7127
+                    }
                 }
             },
             {
@@ -467,7 +733,14 @@
                     "endOffset": 2311
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2352,
+                        "endColumn": 41,
+                        "endOffset": 2389
+                    }
                 }
             },
             {
@@ -479,7 +752,14 @@
                     "endOffset": 2353
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2395,
+                        "endColumn": 41,
+                        "endOffset": 2432
+                    }
                 }
             },
             {
@@ -491,7 +771,14 @@
                     "endOffset": 2395
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2438,
+                        "endColumn": 41,
+                        "endOffset": 2475
+                    }
                 }
             },
             {
@@ -503,7 +790,14 @@
                     "endOffset": 2451
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1255,
+                        "endColumn": 55,
+                        "endOffset": 1306
+                    }
                 }
             },
             {
@@ -515,7 +809,14 @@
                     "endOffset": 2497
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1208,
+                        "endColumn": 45,
+                        "endOffset": 1249
+                    }
                 }
             },
             {
@@ -527,7 +828,14 @@
                     "endOffset": 2596
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 980,
+                        "endColumn": 98,
+                        "endOffset": 1074
+                    }
                 }
             },
             {
@@ -539,7 +847,14 @@
                     "endOffset": 2717
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1080,
+                        "endColumn": 120,
+                        "endOffset": 1196
+                    }
                 }
             },
             {
@@ -551,7 +866,14 @@
                     "endOffset": 2780
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 916,
+                        "endColumn": 62,
+                        "endOffset": 974
+                    }
                 }
             },
             {
@@ -563,7 +885,14 @@
                     "endOffset": 2855
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 840,
+                        "endColumn": 74,
+                        "endOffset": 910
+                    }
                 }
             },
             {
@@ -575,7 +904,14 @@
                     "endOffset": 2903
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 7008,
+                        "endColumn": 47,
+                        "endOffset": 7051
+                    }
                 }
             },
             {
@@ -587,7 +923,14 @@
                     "endOffset": 2947
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 5571,
+                        "endColumn": 43,
+                        "endOffset": 5610
+                    }
                 }
             },
             {
@@ -599,7 +942,14 @@
                     "endOffset": 3001
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 6127,
+                        "endColumn": 53,
+                        "endOffset": 6176
+                    }
                 }
             },
             {
@@ -611,7 +961,14 @@
                     "endOffset": 3043
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 4168,
+                        "endColumn": 41,
+                        "endOffset": 4205
+                    }
                 }
             },
             {
@@ -623,7 +980,14 @@
                     "endOffset": 3103
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4900,
+                        "endColumn": 59,
+                        "endOffset": 4955
+                    }
                 }
             },
             {
@@ -635,7 +999,14 @@
                     "endOffset": 3185
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2829,
+                        "endColumn": 81,
+                        "endOffset": 2906
+                    }
                 }
             },
             {
@@ -647,7 +1018,14 @@
                     "endOffset": 3257
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 6780,
+                        "endColumn": 71,
+                        "endOffset": 6847
+                    }
                 }
             },
             {
@@ -659,7 +1037,14 @@
                     "endOffset": 3337
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 6622,
+                        "endColumn": 79,
+                        "endOffset": 6697
+                    }
                 }
             },
             {
@@ -671,7 +1056,14 @@
                     "endOffset": 3371
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 5992,
+                        "endColumn": 33,
+                        "endOffset": 6021
+                    }
                 }
             },
             {
@@ -683,7 +1075,14 @@
                     "endOffset": 3422
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 7178,
+                        "endColumn": 50,
+                        "endOffset": 7224
+                    }
                 }
             },
             {
@@ -695,7 +1094,14 @@
                     "endOffset": 3458
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3957,
+                        "endColumn": 35,
+                        "endOffset": 3988
+                    }
                 }
             },
             {
@@ -707,7 +1113,14 @@
                     "endOffset": 3504
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 7473,
+                        "endColumn": 45,
+                        "endOffset": 7514
+                    }
                 }
             },
             {
@@ -719,7 +1132,14 @@
                     "endOffset": 3560
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 7520,
+                        "endColumn": 55,
+                        "endOffset": 7571
+                    }
                 }
             },
             {
@@ -731,7 +1151,14 @@
                     "endOffset": 3616
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 7416,
+                        "endColumn": 55,
+                        "endOffset": 7467
+                    }
                 }
             },
             {
@@ -743,7 +1170,14 @@
                     "endOffset": 3674
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2110,
+                        "endColumn": 57,
+                        "endOffset": 2163
+                    }
                 }
             },
             {
@@ -755,7 +1189,14 @@
                     "endOffset": 3714
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 5897,
+                        "endColumn": 39,
+                        "endOffset": 5932
+                    }
                 }
             },
             {
@@ -767,7 +1208,14 @@
                     "endOffset": 3767
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 5938,
+                        "endColumn": 52,
+                        "endOffset": 5986
+                    }
                 }
             },
             {
@@ -779,7 +1227,14 @@
                     "endOffset": 3828
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5321,
+                        "endColumn": 60,
+                        "endOffset": 5377
+                    }
                 }
             },
             {
@@ -791,7 +1246,14 @@
                     "endOffset": 3899
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1734,
+                        "endColumn": 70,
+                        "endOffset": 1800
+                    }
                 }
             },
             {
@@ -803,7 +1265,14 @@
                     "endOffset": 3966
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1806,
+                        "endColumn": 66,
+                        "endOffset": 1868
+                    }
                 }
             },
             {
@@ -815,7 +1284,14 @@
                     "endOffset": 4025
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1874,
+                        "endColumn": 58,
+                        "endOffset": 1928
+                    }
                 }
             },
             {
@@ -827,7 +1303,14 @@
                     "endOffset": 4095
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 69,
+                        "endOffset": 1999
+                    }
                 }
             },
             {
@@ -839,7 +1322,14 @@
                     "endOffset": 4150
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2005,
+                        "endColumn": 54,
+                        "endOffset": 2055
+                    }
                 }
             },
             {
@@ -851,7 +1341,14 @@
                     "endOffset": 4201
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1391,
+                        "endColumn": 50,
+                        "endOffset": 1437
+                    }
                 }
             },
             {
@@ -863,7 +1360,14 @@
                     "endOffset": 4239
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 6182,
+                        "endColumn": 37,
+                        "endOffset": 6215
+                    }
                 }
             },
             {
@@ -875,7 +1379,14 @@
                     "endOffset": 4280
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 5383,
+                        "endColumn": 40,
+                        "endOffset": 5419
+                    }
                 }
             },
             {
@@ -887,7 +1398,14 @@
                     "endOffset": 4321
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 5425,
+                        "endColumn": 40,
+                        "endOffset": 5461
+                    }
                 }
             },
             {
@@ -899,7 +1417,14 @@
                     "endOffset": 4362
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5467,
+                        "endColumn": 40,
+                        "endOffset": 5503
+                    }
                 }
             },
             {
@@ -911,7 +1436,14 @@
                     "endOffset": 4405
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 5017,
+                        "endColumn": 42,
+                        "endOffset": 5055
+                    }
                 }
             },
             {
@@ -923,7 +1455,14 @@
                     "endOffset": 4448
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 5061,
+                        "endColumn": 42,
+                        "endOffset": 5099
+                    }
                 }
             },
             {
@@ -935,7 +1474,14 @@
                     "endOffset": 4512
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 9988,
+                        "endColumn": 63,
+                        "endOffset": 10047
+                    }
                 }
             },
             {
@@ -947,7 +1493,14 @@
                     "endOffset": 4564
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4278,
+                        "endColumn": 51,
+                        "endOffset": 4325
+                    }
                 }
             },
             {
@@ -959,7 +1512,14 @@
                     "endOffset": 4602
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 5684,
+                        "endColumn": 37,
+                        "endOffset": 5717
+                    }
                 }
             },
             {
@@ -971,7 +1531,14 @@
                     "endOffset": 4642
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 8199,
+                        "endColumn": 39,
+                        "endOffset": 8234
+                    }
                 }
             },
             {
@@ -983,7 +1550,14 @@
                     "endOffset": 4684
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 5723,
+                        "endColumn": 41,
+                        "endOffset": 5760
+                    }
                 }
             },
             {
@@ -995,7 +1569,14 @@
                     "endOffset": 4726
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4804,
+                        "endColumn": 41,
+                        "endOffset": 4841
+                    }
                 }
             },
             {
@@ -1007,7 +1588,14 @@
                     "endOffset": 4764
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4726,
+                        "endColumn": 37,
+                        "endOffset": 4759
+                    }
                 }
             },
             {
@@ -1019,7 +1607,14 @@
                     "endOffset": 4804
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 7887,
+                        "endColumn": 39,
+                        "endOffset": 7922
+                    }
                 }
             },
             {
@@ -1031,7 +1626,14 @@
                     "endOffset": 4842
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4765,
+                        "endColumn": 37,
+                        "endOffset": 4798
+                    }
                 }
             },
             {
@@ -1043,7 +1645,14 @@
                     "endOffset": 4884
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 6922,
+                        "endColumn": 41,
+                        "endOffset": 6959
+                    }
                 }
             },
             {
@@ -1055,7 +1664,14 @@
                     "endOffset": 4924
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 5766,
+                        "endColumn": 39,
+                        "endOffset": 5801
+                    }
                 }
             },
             {
@@ -1067,7 +1683,14 @@
                     "endOffset": 4966
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 6965,
+                        "endColumn": 41,
+                        "endOffset": 7002
+                    }
                 }
             },
             {
@@ -1079,7 +1702,14 @@
                     "endOffset": 5010
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 7133,
+                        "endColumn": 43,
+                        "endOffset": 7172
+                    }
                 }
             },
             {
@@ -1091,7 +1721,14 @@
                     "endOffset": 5068
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 57,
+                        "endOffset": 479
+                    }
                 }
             },
             {
@@ -1103,7 +1740,14 @@
                     "endOffset": 5127
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 58,
+                        "endOffset": 215
+                    }
                 }
             },
             {
@@ -1115,7 +1759,14 @@
                     "endOffset": 5193
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 65,
+                        "endOffset": 546
+                    }
                 }
             },
             {
@@ -1127,7 +1778,14 @@
                     "endOffset": 5249
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 221,
+                        "endColumn": 55,
+                        "endOffset": 272
+                    }
                 }
             },
             {
@@ -1139,7 +1797,14 @@
                     "endOffset": 5329
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 345,
+                        "endColumn": 79,
+                        "endOffset": 420
+                    }
                 }
             },
             {
@@ -1151,7 +1816,14 @@
                     "endOffset": 5395
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 65,
+                        "endOffset": 339
+                    }
                 }
             },
             {
@@ -1163,7 +1835,14 @@
                     "endOffset": 5443
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 6278,
+                        "endColumn": 47,
+                        "endOffset": 6321
+                    }
                 }
             },
             {
@@ -1175,7 +1854,14 @@
                     "endOffset": 5502
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 5203,
+                        "endColumn": 58,
+                        "endOffset": 5257
+                    }
                 }
             },
             {
@@ -1187,7 +1873,14 @@
                     "endOffset": 5560
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 5144,
+                        "endColumn": 57,
+                        "endOffset": 5197
+                    }
                 }
             },
             {
@@ -1199,7 +1892,14 @@
                     "endOffset": 5598
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 6027,
+                        "endColumn": 37,
+                        "endOffset": 6060
+                    }
                 }
             },
             {
@@ -1211,7 +1911,14 @@
                     "endOffset": 5662
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 7718,
+                        "endColumn": 63,
+                        "endOffset": 7777
+                    }
                 }
             },
             {
@@ -1223,7 +1930,14 @@
                     "endOffset": 5727
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 7783,
+                        "endColumn": 64,
+                        "endOffset": 7843
+                    }
                 }
             },
             {
@@ -1235,7 +1949,14 @@
                     "endOffset": 5767
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2991,
+                        "endColumn": 39,
+                        "endOffset": 3026
+                    }
                 }
             },
             {
@@ -1247,7 +1968,14 @@
                     "endOffset": 5815
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 7273,
+                        "endColumn": 47,
+                        "endOffset": 7316
+                    }
                 }
             },
             {
@@ -1259,7 +1987,14 @@
                     "endOffset": 5875
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 6327,
+                        "endColumn": 59,
+                        "endOffset": 6382
+                    }
                 }
             },
             {
@@ -1271,7 +2006,14 @@
                     "endOffset": 5931
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 7928,
+                        "endColumn": 55,
+                        "endOffset": 7979
+                    }
                 }
             },
             {
@@ -1283,7 +2025,14 @@
                     "endOffset": 5987
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 7985,
+                        "endColumn": 55,
+                        "endOffset": 8036
+                    }
                 }
             },
             {
@@ -1295,7 +2044,14 @@
                     "endOffset": 6042
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4961,
+                        "endColumn": 54,
+                        "endOffset": 5011
+                    }
                 }
             },
             {
@@ -1307,7 +2063,14 @@
                     "endOffset": 6099
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5263,
+                        "endColumn": 56,
+                        "endOffset": 5315
+                    }
                 }
             },
             {
@@ -1319,7 +2082,14 @@
                     "endOffset": 6147
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 8405,
+                        "endColumn": 47,
+                        "endOffset": 8448
+                    }
                 }
             },
             {
@@ -1331,7 +2101,14 @@
                     "endOffset": 6202
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 8920,
+                        "endColumn": 54,
+                        "endOffset": 8970
+                    }
                 }
             },
             {
@@ -1343,7 +2120,14 @@
                     "endOffset": 6261
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 8976,
+                        "endColumn": 64,
+                        "endOffset": 9036
+                    }
                 }
             },
             {
@@ -1355,7 +2139,14 @@
                     "endOffset": 6324
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 9042,
+                        "endColumn": 62,
+                        "endOffset": 9100
+                    }
                 }
             },
             {
@@ -1367,7 +2158,14 @@
                     "endOffset": 6375
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 9106,
+                        "endColumn": 50,
+                        "endOffset": 9152
+                    }
                 }
             },
             {
@@ -1379,7 +2177,14 @@
                     "endOffset": 6430
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 9158,
+                        "endColumn": 54,
+                        "endOffset": 9208
+                    }
                 }
             },
             {
@@ -1391,7 +2196,14 @@
                     "endOffset": 6508
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 9214,
+                        "endColumn": 77,
+                        "endOffset": 9287
+                    }
                 }
             },
             {
@@ -1403,7 +2215,14 @@
                     "endOffset": 6565
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 9293,
+                        "endColumn": 56,
+                        "endOffset": 9345
+                    }
                 }
             },
             {
@@ -1415,7 +2234,14 @@
                     "endOffset": 6613
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 9351,
+                        "endColumn": 47,
+                        "endOffset": 9394
+                    }
                 }
             },
             {
@@ -1427,7 +2253,14 @@
                     "endOffset": 6668
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 9400,
+                        "endColumn": 54,
+                        "endOffset": 9450
+                    }
                 }
             },
             {
@@ -1439,7 +2272,14 @@
                     "endOffset": 6720
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 9456,
+                        "endColumn": 51,
+                        "endOffset": 9503
+                    }
                 }
             },
             {
@@ -1451,7 +2291,14 @@
                     "endOffset": 6797
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 8454,
+                        "endColumn": 76,
+                        "endOffset": 8526
+                    }
                 }
             },
             {
@@ -1463,7 +2310,14 @@
                     "endOffset": 6848
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 9509,
+                        "endColumn": 50,
+                        "endOffset": 9555
+                    }
                 }
             },
             {
@@ -1475,7 +2329,14 @@
                     "endOffset": 6908
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 9561,
+                        "endColumn": 59,
+                        "endOffset": 9616
+                    }
                 }
             },
             {
@@ -1487,7 +2348,14 @@
                     "endOffset": 6963
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 9622,
+                        "endColumn": 54,
+                        "endOffset": 9672
+                    }
                 }
             },
             {
@@ -1499,7 +2367,14 @@
                     "endOffset": 7025
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 9678,
+                        "endColumn": 61,
+                        "endOffset": 9735
+                    }
                 }
             },
             {
@@ -1511,7 +2386,14 @@
                     "endOffset": 7079
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 9741,
+                        "endColumn": 53,
+                        "endOffset": 9790
+                    }
                 }
             },
             {
@@ -1523,7 +2405,14 @@
                     "endOffset": 7141
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 9796,
+                        "endColumn": 61,
+                        "endOffset": 9853
+                    }
                 }
             },
             {
@@ -1535,7 +2424,14 @@
                     "endOffset": 7197
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 8532,
+                        "endColumn": 55,
+                        "endOffset": 8583
+                    }
                 }
             },
             {
@@ -1547,7 +2443,14 @@
                     "endOffset": 7251
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 8589,
+                        "endColumn": 53,
+                        "endOffset": 8638
+                    }
                 }
             },
             {
@@ -1559,7 +2462,14 @@
                     "endOffset": 7304
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 8644,
+                        "endColumn": 52,
+                        "endOffset": 8692
+                    }
                 }
             },
             {
@@ -1571,7 +2481,14 @@
                     "endOffset": 7357
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 8698,
+                        "endColumn": 52,
+                        "endOffset": 8746
+                    }
                 }
             },
             {
@@ -1583,7 +2500,14 @@
                     "endOffset": 7413
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 8752,
+                        "endColumn": 55,
+                        "endOffset": 8803
+                    }
                 }
             },
             {
@@ -1595,7 +2519,14 @@
                     "endOffset": 7464
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 8809,
+                        "endColumn": 50,
+                        "endOffset": 8855
+                    }
                 }
             },
             {
@@ -1607,7 +2538,14 @@
                     "endOffset": 7522
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 8861,
+                        "endColumn": 57,
+                        "endOffset": 8914
+                    }
                 }
             },
             {
@@ -1619,7 +2557,14 @@
                     "endOffset": 7564
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 7322,
+                        "endColumn": 41,
+                        "endOffset": 7359
+                    }
                 }
             },
             {
@@ -1631,7 +2576,14 @@
                     "endOffset": 7614
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 7365,
+                        "endColumn": 49,
+                        "endOffset": 7410
+                    }
                 }
             },
             {
@@ -1643,7 +2595,14 @@
                     "endOffset": 7656
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 8156,
+                        "endColumn": 41,
+                        "endOffset": 8193
+                    }
                 }
             },
             {
@@ -1655,7 +2614,14 @@
                     "endOffset": 7700
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2784,
+                        "endColumn": 43,
+                        "endOffset": 2823
+                    }
                 }
             },
             {
@@ -1667,7 +2633,14 @@
                     "endOffset": 7760
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2232,
+                        "endColumn": 59,
+                        "endOffset": 2287
+                    }
                 }
             },
             {
@@ -1679,7 +2652,14 @@
                     "endOffset": 7797
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 7849,
+                        "endColumn": 36,
+                        "endOffset": 7881
+                    }
                 }
             },
             {
@@ -1691,7 +2671,14 @@
                     "endOffset": 7857
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 625,
+                        "endColumn": 59,
+                        "endOffset": 680
+                    }
                 }
             },
             {
@@ -1703,7 +2690,14 @@
                     "endOffset": 7927
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 69,
+                        "endOffset": 751
+                    }
                 }
             },
             {
@@ -1715,7 +2709,14 @@
                     "endOffset": 8003
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endColumn": 75,
+                        "endOffset": 828
+                    }
                 }
             },
             {
@@ -1727,7 +2728,14 @@
                     "endOffset": 8039
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 8119,
+                        "endColumn": 35,
+                        "endOffset": 8150
+                    }
                 }
             },
             {
@@ -1739,7 +2747,14 @@
                     "endOffset": 8077
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 5105,
+                        "endColumn": 37,
+                        "endOffset": 5138
+                    }
                 }
             },
             {
@@ -1751,7 +2766,14 @@
                     "endOffset": 8735
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 3032,
+                        "endColumn": 657,
+                        "endOffset": 3685
+                    }
                 }
             },
             {
@@ -1763,7 +2785,14 @@
                     "endOffset": 8791
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 6221,
+                        "endColumn": 55,
+                        "endOffset": 6272
+                    }
                 }
             },
             {
@@ -1775,7 +2804,14 @@
                     "endOffset": 8852
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1443,
+                        "endColumn": 60,
+                        "endOffset": 1499
+                    }
                 }
             },
             {
@@ -1787,7 +2823,14 @@
                     "endOffset": 8922
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 8334,
+                        "endColumn": 69,
+                        "endOffset": 8399
+                    }
                 }
             },
             {
@@ -1799,7 +2842,14 @@
                     "endOffset": 9015
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 8240,
+                        "endColumn": 92,
+                        "endOffset": 8328
+                    }
                 }
             },
             {
@@ -1811,7 +2861,14 @@
                     "endOffset": 9112
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1569,
+                        "endColumn": 100,
+                        "endOffset": 1665
+                    }
                 }
             },
             {
@@ -1823,7 +2880,14 @@
                     "endOffset": 9169
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1505,
+                        "endColumn": 62,
+                        "endOffset": 1563
+                    }
                 }
             },
             {
@@ -1835,7 +2899,14 @@
                     "endOffset": 9231
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1671,
+                        "endColumn": 61,
+                        "endOffset": 1728
+                    }
                 }
             },
             {
@@ -1847,7 +2918,14 @@
                     "endOffset": 9273
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 9859,
+                        "endColumn": 41,
+                        "endOffset": 9896
+                    }
                 }
             },
             {
@@ -1859,7 +2937,14 @@
                     "endOffset": 9315
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 9902,
+                        "endColumn": 41,
+                        "endOffset": 9939
+                    }
                 }
             },
             {
@@ -1871,7 +2956,14 @@
                     "endOffset": 9357
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 9945,
+                        "endColumn": 41,
+                        "endOffset": 9982
+                    }
                 }
             },
             {
@@ -1883,7 +2975,14 @@
                     "endOffset": 9429
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 173,
+                        "startColumn": 4,
+                        "startOffset": 10053,
+                        "endColumn": 71,
+                        "endOffset": 10120
+                    }
                 }
             },
             {
@@ -1895,7 +2994,14 @@
                     "endOffset": 9477
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2481,
+                        "endColumn": 47,
+                        "endOffset": 2524
+                    }
                 }
             },
             {
@@ -1907,7 +3013,14 @@
                     "endOffset": 9548
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2589,
+                        "endColumn": 70,
+                        "endOffset": 2655
+                    }
                 }
             },
             {
@@ -1919,7 +3032,14 @@
                     "endOffset": 9619
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2661,
+                        "endColumn": 70,
+                        "endOffset": 2727
+                    }
                 }
             },
             {
@@ -1931,7 +3051,14 @@
                     "endOffset": 9677
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2530,
+                        "endColumn": 57,
+                        "endOffset": 2583
+                    }
                 }
             },
             {
@@ -1943,7 +3070,14 @@
                     "endOffset": 9717
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3752,
+                        "endColumn": 39,
+                        "endOffset": 3787
+                    }
                 }
             },
             {
@@ -1955,7 +3089,14 @@
                     "endOffset": 9769
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4847,
+                        "endColumn": 51,
+                        "endOffset": 4894
+                    }
                 }
             },
             {
@@ -1967,7 +3108,14 @@
                     "endOffset": 9809
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3793,
+                        "endColumn": 39,
+                        "endOffset": 3828
+                    }
                 }
             },
             {
@@ -1998,7 +3146,14 @@
                     "endOffset": 9949
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2912,
+                        "endColumn": 77,
+                        "endOffset": 2985
+                    }
                 }
             },
             {
@@ -2010,7 +3165,14 @@
                     "endOffset": 10017
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 6853,
+                        "endColumn": 67,
+                        "endOffset": 6916
+                    }
                 }
             },
             {
@@ -2022,7 +3184,14 @@
                     "endOffset": 10093
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 6703,
+                        "endColumn": 75,
+                        "endOffset": 6774
+                    }
                 }
             },
             {
@@ -2034,7 +3203,14 @@
                     "endOffset": 10133
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 4127,
+                        "endColumn": 39,
+                        "endOffset": 4162
+                    }
                 }
             },
             {
@@ -2046,7 +3222,14 @@
                     "endOffset": 10177
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 5852,
+                        "endColumn": 43,
+                        "endOffset": 5891
+                    }
                 }
             },
             {
@@ -2058,7 +3241,14 @@
                     "endOffset": 10221
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 5807,
+                        "endColumn": 43,
+                        "endOffset": 5846
+                    }
                 }
             },
             {
@@ -2066,25 +3256,41 @@
                     "startLine": 173,
                     "startColumn": 4,
                     "startOffset": 10226,
-                    "endLine": 175,
+                    "endLine": 179,
                     "endColumn": 12,
-                    "endOffset": 10304
+                    "endOffset": 10512
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
                 }
             },
             {
                 "to": {
-                    "startLine": 176,
+                    "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 10309,
-                    "endLine": 178,
+                    "startOffset": 10517,
+                    "endLine": 182,
                     "endColumn": 12,
-                    "endOffset": 10376
+                    "endOffset": 10672
                 },
                 "from": {
-                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\styles.xml"
+                    "file": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
                 }
             }
         ]

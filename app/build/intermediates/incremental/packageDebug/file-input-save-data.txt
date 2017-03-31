@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Jan 11 13:47:22 CST 2017
+#Wed Jan 18 14:34:22 CST 2017
 76.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
 5.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
 42.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\BixolonPrinterWithDoubleByteFontBinary_d262cfc045cb200eaa72e766ed693704f11ffd75
@@ -16,7 +16,7 @@
 10.set=ANDROID_RESOURCE
 28.set=ANDROID_RESOURCE
 22.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
-0.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\user.png
+0.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\remove.png
 61.set=ANDROID_RESOURCE
 32.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
 65.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\assets\\nec\\ks5601.bin
@@ -26,14 +26,14 @@
 68.set=ANDROID_RESOURCE
 4.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\assets\\st\\shift_jis.bin
 26.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
-41.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\page_mode_sample_shape.xml
+41.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_form_salida_consumo.xml
 1.set=ANDROID_RESOURCE
 36.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_46b608817d937c137afc753328947df9b77e23da
 69.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\device_filter.xml
 57.set=DEX
 51.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
 61.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\activity_main.xml
-8.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\download.png
+8.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_config_empresa.xml
 12.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
 8.set=ANDROID_RESOURCE
 45.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\activity_page_mode.xml
@@ -76,7 +76,7 @@
 20.set=ANDROID_RESOURCE
 38.set=ANDROID_RESOURCE
 23.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
-1.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\remove.png
+1.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\user.png
 71.set=JAVA_RESOURCE
 33.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
 66.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\logo2.png
@@ -200,7 +200,7 @@ count=79
 58.set=ANDROID_RESOURCE
 3.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\receipt_logo.bmp
 25.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
-40.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_form_salida_consumo.xml
+40.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\page_mode_sample_shape.xml
 35.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
 68.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main_printer.xml
 9.set=DEX
@@ -210,7 +210,7 @@ count=79
 78.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\print.png
 60.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\listview_generico_temp.xml
 29.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
-7.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_config_empresa.xml
+7.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\download.png
 11.base=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\resources-debug.ap_
 44.file=C\:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_9\\classes.dex
 36.set=DEX

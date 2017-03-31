@@ -48,12 +48,12 @@
         "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\layout\\listview_materiales_ordencompra.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_form_entrada.xml",
-        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\layout\\activity_form_entrada.xml"
-    },
-    {
         "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_temp.xml",
         "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\layout\\listview_temp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_form_entrada.xml",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\layout\\activity_form_entrada.xml"
     },
     {
         "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pint_text.xml",

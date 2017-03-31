@@ -1,5 +1,6 @@
 package com.grupohi.almacenv1;
 
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.Set;
 
@@ -10,6 +11,7 @@ import org.json.JSONObject;
 import com.bixolon.printer.BixolonPrinter;
 import com.grupohi.almacenv1.lib.AsyncTaskCompleteListener;
 import com.grupohi.almacenv1.lib.MyTask;
+import com.grupohi.almacenv1.lib.Utils;
 import com.grupohi.almacenv1.modelo.*;
 import com.grupohi.almacenv1.printer.DialogManager;
 import com.grupohi.almacenv1.printer.WiFiDirectBroadcastReceiver;
@@ -53,6 +55,7 @@ public class MainActivity extends Activity implements	AsyncTaskCompleteListener 
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		usuario = new Usuario(MainActivity.this);
+
 		obra=new Obras(this);
 		obras=getApplicationContext().getString(R.string.url_api)+"ordenes_compra/?controlador=SAO&accion=getObrasBaseMovil&usercadeco=";
 		
@@ -66,6 +69,13 @@ public class MainActivity extends Activity implements	AsyncTaskCompleteListener 
 					startActivity(new Intent(MainActivity.this, ConfigEmpresaActivity.class));				
 			}
 
+		}
+		try {
+			Utils.copyDataBase(getApplicationContext());
+			System.out.println("INiciar");
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
 		}
 		mBixolonPrinter = new BixolonPrinter(this, mHandler, null);
 		BitmapDrawable drawable = (BitmapDrawable) getResources().getDrawable(R.drawable.logo1x);

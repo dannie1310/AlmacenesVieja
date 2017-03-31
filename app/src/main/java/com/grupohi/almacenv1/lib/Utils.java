@@ -97,14 +97,14 @@ public class Utils {
 		StringBuilder sb = null;
 		String result_post = null;
 		try {
-			HttpClient httpclient = new DefaultHttpClient();
+			/*HttpClient httpclient = new DefaultHttpClient();
 			HttpPost httppost = new HttpPost(url);
 			
 			httppost.setEntity(new UrlEncodedFormEntity(nameValue));
 			
 			HttpResponse response = httpclient.execute(httppost);
 			HttpEntity entity = response.getEntity();
-			is = entity.getContent();
+			is = entity.getContent();*/
 		} catch (Exception e) {
 			Log.e("log_tag", "Error in http connection" + e.toString());
 		}

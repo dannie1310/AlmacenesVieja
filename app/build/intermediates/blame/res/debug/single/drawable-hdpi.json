@@ -20,12 +20,12 @@
         "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\ic_content_copy.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
-        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\file.png",
         "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\Usuario\\Documents\\appRa\\AlmacenesVieja\\Almacenes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",

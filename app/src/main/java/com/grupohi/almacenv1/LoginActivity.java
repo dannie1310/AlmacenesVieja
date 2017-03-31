@@ -21,6 +21,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ProgressBar;
 
+import java.io.IOException;
+
 
 public class LoginActivity extends Activity implements	AsyncTaskCompleteListener {
 	public static final String log = "Login";
@@ -53,14 +55,17 @@ public class LoginActivity extends Activity implements	AsyncTaskCompleteListener
 			int idusuario=usuario.getIdUsuario(user_text,pass_text);
 			if(idusuario>0){
 				usuario.setlogin(idusuario);
+
 				startActivity(new Intent(LoginActivity.this, MainActivity.class));
 			}
 			
 			else
 			new MyTask(this).execute(login + "usr=" + user_text + "&pass="	+ pass_text);
 			Log.e("login_cadena", login + "usr=" + user_text + "&pass="	+ pass_text);
-		} else 
-			new Alert(this, log, "Campos vacios .. error");		
+		} else {
+			new Alert(this, log, "Campos vacios .. error");
+		}
+
 
 	}
 
